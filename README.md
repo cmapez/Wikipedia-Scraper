@@ -17,4 +17,6 @@ A scraper for en.wikipedia.org built in python
 - Easy to use.
 
 
-##
+## Info
+- Built in python 3.10 (may not work in other versions)
+- Made by Carlo Maples
