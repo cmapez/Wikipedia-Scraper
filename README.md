@@ -9,7 +9,7 @@ A scraper for en.wikipedia.org built in python
 - [Bs4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup)
 
 
-## Featires
+## Features
 
 - Scrape full wikipedia pages with just a word.
 - Determine most common words on page.
